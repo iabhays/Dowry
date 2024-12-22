@@ -1,3 +1,5 @@
+#This is only for Fun and Learning purpose.
+
 import streamlit as st
 
 # Function to calculate dowry based on different factors
